@@ -68,8 +68,3 @@ python main.py
 Add Random Forest comparison
 Hyperparameter tuning
 Cross-validation
----
-
-## 👨‍💻 Author
-**Ayush S**  
-Machine Learning Enthusiast
