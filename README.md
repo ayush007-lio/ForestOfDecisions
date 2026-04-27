@@ -69,7 +69,6 @@ Add Random Forest comparison
 Hyperparameter tuning
 Cross-validation.
 
-
- "## 👨‍💻 Author
-**Ayush S**  
+👨‍💻 Author
+Ayush S
 Machine Learning Enthusiast". update and give
